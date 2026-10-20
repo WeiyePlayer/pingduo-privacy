@@ -6,3 +6,5 @@ Developer: MaoWeiye. Contact: weiyemao2005@126.com.
 GitHub Pages publishes main / root. Chinese: index.html. English: en/index.html.
 No JavaScript, forms, analytics, ads, external fonts or application API.
 The app uses local media processing and allowance, Apple StoreKit, optional Apple sign-in, and Apple's official crash-report channels.
+
+The 20 October 2026 revision covers video slimming and Photos deletion, local buddy profiles/avatars/notes, offer-code redemption and subscription renewal, and user-copied subscription diagnostics. The corresponding app release includes matching Photos permission descriptions.
